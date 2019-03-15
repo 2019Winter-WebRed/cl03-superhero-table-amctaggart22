@@ -1,0 +1,29 @@
+/* 
+* Annie McTaggart
+* Due Date
+* Super Hero Table
+*/
+
+*/ The universal selector */
+
+*{
+
+}
+
+/* Body attributes here */
+
+body {
+    background-color: azure;
+    font-family: monospace; 
+    font-size: 24;
+    text-decoration: underline; 
+}
+table{ background-color:orange; width: 40%}
+
+table, td, th { border: 1px solid blue; }
+
+table { border-collapse: collapse; }
+
+thead { background-color: lime; }
+
+tfoot { background-color: lavender; }
